@@ -1,6 +1,6 @@
 ![project's section banner](./assets/readme_title.png)
 
-Every section in this README template is a working example.
+Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here.
 
 ![index section banner](./assets/readme_index.png)
 
@@ -22,23 +22,20 @@ Every section in this README template is a working example.
 git clone https://github.com/ephcoding/readme.git
 ```
 
+### **INSTALL DEPENDENCIES**
+
+```zsh
+npm i
+```
+
 <h2 id='how-to-use' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_how-to-use.png'>
 </h2>
 
 <details>
-<summary><strong>How to do thing 1:</strong></summary>
+<summary><strong>DropDown:</strong></summary>
 
-1. Step one:
-1. Step two:
-
-</details>
-
-<details>
-<summary><strong>How to do thing 2:</strong></summary>
-
-1. Step one:
-1. Step two:
+- notes for days...
 
 </details>
 
@@ -48,15 +45,11 @@ git clone https://github.com/ephcoding/readme.git
 <img alt='readme template run it section banner' src='./assets/readme_shout-outs.png'>
 </h2>
 
-### **_Name of Person_**
+### **FirstName LastName**
 
-If you benefited from something someone else made / built / curated, show em' some love. We're all learning from each other.
+\< social \> | [@username](https://some.address)
 
-\< resource \> | [link](https://some.address)
-
-\< social platform \> | [@username](https://some.address)
-
-\< personal site \> | [link](https://some.address)
+\< site \> | [link](https://some.address)
 
 <h2 id='license' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_license.png'>
@@ -76,13 +69,20 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 <img alt='readme template run it section banner' src='./assets/readme_stats.png'>
 </h2>
 
-![GitHub followers badge](https://img.shields.io/github/followers/ephcoding?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
+Badges are an easy & effective way to keep your projects updated & connect with
 
 <h2 id='contribute' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_contribute.png'>
 </h2>
 
+Contribution instructions go here:
+
 <h2 id='connect' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_connect.png'>
 </h2>
+
+[]()
+
+![GitHub followers badge](https://img.shields.io/github/followers/ephcoding?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
