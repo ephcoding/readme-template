@@ -16,6 +16,12 @@ Every section in this README template is a working example.
 <img alt='readme template run it section banner' src='./assets/readme_run-it.png'>
 </h2>
 
+### **CLONE IT**
+
+```zsh
+git clone https://github.com/ephcoding/readme.git
+```
+
 <h2 id='how-to-use' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_how-to-use.png'>
 </h2>
@@ -70,7 +76,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 <img alt='readme template run it section banner' src='./assets/readme_stats.png'>
 </h2>
 
-[shields](https://shields.io)
+![GitHub followers badge](https://img.shields.io/github/followers/ephcoding?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
 
 <h2 id='contribute' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_contribute.png'>
