@@ -33,6 +33,8 @@ npm i
 <img alt='readme template run it section banner' src='./assets/readme_how-to-use.png'>
 </h2>
 
+<!-- #region -->
+
 <details>
 <summary><strong>DropDown:</strong></summary>
 
@@ -86,14 +88,19 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 <img alt='readme template contribute section banner' src='./assets/readme_contribute.png'>
 </h2>
 
-Contribution instructions go here:
+### **ISSUES:**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
+
+### **PULL REQUESTS:**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
 
 <h2 id='resources' align='center'>
 <img alt='readme template resources section banner' src='./assets/readme_resources.png'>
 </h2>
 
-- adf
-- asdf
+- resource | [link](https://someline.internetland)
 
 <h2 id='connect' align='center'>
 <img alt='readme template connect section banner' src='./assets/readme_connect.png'>
@@ -104,3 +111,5 @@ Contribution instructions go here:
 ![GitHub followers](https://img.shields.io/github/followers/ephcoding?label=Follow&style=social)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
+
+Email: ephraim@modevx.com
