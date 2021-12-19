@@ -1,6 +1,6 @@
 ![project's section banner](./assets/readme_title.png)
 
-Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here. Description goes here.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante. Curabitur risus arcu, finibus a vulputate quis, convallis eu lectus. Vestibulum rhoncus euismod mauris vitae accumsan. Etiam sit amet facilisis tortor, ut malesuada est. Quisque pellentesque tempor quam, id suscipit odio auctor eget.
 
 ![index section banner](./assets/readme_index.png)
 
@@ -10,6 +10,7 @@ Description goes here. Description goes here. Description goes here. Description
 1. [License](#license)
 1. [Stats](#stats)
 1. [Contribute](#contribute)
+1. [Resources](#resources)
 1. [Connect](#connect)
 
 <h2 id='run-it' align='center'>
@@ -69,20 +70,37 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 <img alt='readme template run it section banner' src='./assets/readme_stats.png'>
 </h2>
 
-Badges are an easy & effective way to keep your projects updated & connect with
+![GitHub forks](https://img.shields.io/github/forks/ephcoding/readme?label=Fork&style=social)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/ephcoding/readme?label=Star%20Repo&style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/ephcoding?label=Star%20ephcoding&style=social)
+
+![GitHub watchers](https://img.shields.io/github/watchers/ephcoding/readme?label=watch%20repo&style=social)
+
+![npm bundle size](https://img.shields.io/bundlephobia/min/readme)
+
+![GitHub issues](https://img.shields.io/github/issues/ephcoding/readme)
 
 <h2 id='contribute' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_contribute.png'>
+<img alt='readme template contribute section banner' src='./assets/readme_contribute.png'>
 </h2>
 
 Contribution instructions go here:
 
+<h2 id='resources' align='center'>
+<img alt='readme template resources section banner' src='./assets/readme_resources.png'>
+</h2>
+
+- adf
+- asdf
+
 <h2 id='connect' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_connect.png'>
+<img alt='readme template connect section banner' src='./assets/readme_connect.png'>
 </h2>
 
 []()
 
-![GitHub followers badge](https://img.shields.io/github/followers/ephcoding?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ephcoding?label=Follow&style=social)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
