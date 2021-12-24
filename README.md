@@ -1,6 +1,6 @@
 ![project's section banner](./assets/readme_title.png)
 
-Every section in this README template is a working example.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante. Curabitur risus arcu, finibus a vulputate quis, convallis eu lectus. Vestibulum rhoncus euismod mauris vitae accumsan. Etiam sit amet facilisis tortor, ut malesuada est. Quisque pellentesque tempor quam, id suscipit odio auctor eget.
 
 ![index section banner](./assets/readme_index.png)
 
@@ -10,29 +10,35 @@ Every section in this README template is a working example.
 1. [License](#license)
 1. [Stats](#stats)
 1. [Contribute](#contribute)
+1. [Resources](#resources)
 1. [Connect](#connect)
 
 <h2 id='run-it' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_run-it.png'>
 </h2>
 
+### **CLONE IT**
+
+```zsh
+git clone https://github.com/ephcoding/readme.git
+```
+
+### **INSTALL DEPENDENCIES**
+
+```zsh
+npm i
+```
+
 <h2 id='how-to-use' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_how-to-use.png'>
 </h2>
 
-<details>
-<summary><strong>How to do thing 1:</strong></summary>
-
-1. Step one:
-1. Step two:
-
-</details>
+<!-- #region -->
 
 <details>
-<summary><strong>How to do thing 2:</strong></summary>
+<summary><strong>DropDown:</strong></summary>
 
-1. Step one:
-1. Step two:
+- notes for days...
 
 </details>
 
@@ -42,15 +48,11 @@ Every section in this README template is a working example.
 <img alt='readme template run it section banner' src='./assets/readme_shout-outs.png'>
 </h2>
 
-### **_Name of Person_**
+### **FirstName LastName**
 
-If you benefited from something someone else made / built / curated, show em' some love. We're all learning from each other.
+\< social \> | [@username](https://some.address)
 
-\< resource \> | [link](https://some.address)
-
-\< social platform \> | [@username](https://some.address)
-
-\< personal site \> | [link](https://some.address)
+\< site \> | [link](https://some.address)
 
 <h2 id='license' align='center'>
 <img alt='readme template run it section banner' src='./assets/readme_license.png'>
@@ -70,12 +72,44 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 <img alt='readme template run it section banner' src='./assets/readme_stats.png'>
 </h2>
 
-[shields](https://shields.io)
+![GitHub forks](https://img.shields.io/github/forks/ephcoding/readme?label=Fork&style=social)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/ephcoding/readme?label=Star%20Repo&style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/ephcoding?label=Star%20ephcoding&style=social)
+
+![GitHub watchers](https://img.shields.io/github/watchers/ephcoding/readme?label=watch%20repo&style=social)
+
+![npm bundle size](https://img.shields.io/bundlephobia/min/readme)
+
+![GitHub issues](https://img.shields.io/github/issues/ephcoding/readme)
 
 <h2 id='contribute' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_contribute.png'>
+<img alt='readme template contribute section banner' src='./assets/readme_contribute.png'>
 </h2>
 
-<h2 id='connect' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_connect.png'>
+### **ISSUES:**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
+
+### **PULL REQUESTS:**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
+
+<h2 id='resources' align='center'>
+<img alt='readme template resources section banner' src='./assets/readme_resources.png'>
 </h2>
+
+- resource | [link](https://someline.internetland)
+
+<h2 id='connect' align='center'>
+<img alt='readme template connect section banner' src='./assets/readme_connect.png'>
+</h2>
+
+[]()
+
+![GitHub followers](https://img.shields.io/github/followers/ephcoding?label=Follow&style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
+
+Email: ephraim@modevx.com
