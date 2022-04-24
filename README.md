@@ -1,66 +1,297 @@
-![project's section banner](./assets/readme_title.png)
+##
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante. Curabitur risus arcu, finibus a vulputate quis, convallis eu lectus. Vestibulum rhoncus euismod mauris vitae accumsan. Etiam sit amet facilisis tortor, ut malesuada est. Quisque pellentesque tempor quam, id suscipit odio auctor eget.
+![readme title graphic](./assets/title.png)
 
-![index section banner](./assets/readme_index.png)
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
 
-1. [Run It](#run-it)
-1. [How To Use](#how-to-use)
-1. [Shout-Outs](#shout-outs)
-1. [License](#license)
-1. [Stats](#stats)
-1. [Contribute](#contribute)
-1. [Resources](#resources)
-1. [Connect](#connect)
+Project description (elevevator pitch). Project description (elevevator pitch). Project description (elevevator pitch). Project description (elevevator pitch).
+
+##
+
+<h2 id='install' align='center'>
+  <img alt='readme install graphic' src='./assets/install.png'>
+</h2>
+
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
+
+### **_Clone The Repo_**
+
+```shellscript
+cd <parent-folder-path/>
+```
+
+```shellscript
+git clone https://github.com/ephbuilding/a-readme-template.git
+```
+
+### **_Install Project Dependencies_**
+
+```shellscript
+cd <new-project-path/>
+```
+
+```shellscript
+npm install
+
+OR
+
+yarn
+```
+
+##
 
 <h2 id='run-it' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_run-it.png'>
+  <img alt='readme run-it graphic' src='./assets/run-it.png'>
 </h2>
 
-### **CLONE IT**
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
 
-```zsh
-git clone https://github.com/ephcoding/readme.git
+You obviously don't need to "run" the `README.md` so here's an example:
+
+### **_Run Your New Project_**
+
+```shellscript
+// make sure you installed the dependencies first
+
+npm run dev
+
+OR
+
+yarn run dev
 ```
 
-### **INSTALL DEPENDENCIES**
-
-```zsh
-npm i
-```
+##
 
 <h2 id='how-to-use' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_how-to-use.png'>
+  <img alt='readme how-to-use graphic' src='./assets/how-to-use.png'>
 </h2>
 
-<!-- #region -->
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
 
 <details>
-<summary><strong>DropDown:</strong></summary>
+<summary><strong>Folder Structure:</strong></summary>
 
-- notes for days...
+```shellscript
+// example folder structure
+
+your-app-name/...................root directory
+  __tests__/.....................tests
+  dist/..........................deployment folder
+  node_modules/..................project dependencies
+  public/........................copied to dist/
+  src/...........................MAIN PROJECT FOLDER
+    assets/......................images, fonts
+    components/..................React components
+    hooks/.......................custom React hooks
+    pages/.......................pages view components
+    services/....................3rd-party data resources
+    styles/......................CSS stylesheets
+    App.jsx......................project root component
+    index.js.....................PROJECT ENTRY POINT
+  .env...........................environment variables
+  .gitignore.....................don't expose those .env keys!
+  package.json...................project dependency config
+  README.md......................you are here [X]
+  yarn.lock......................dependency lock file
+```
+
+</details>
+
+<details>
+<summary><strong>Dependencies:</strong></summary>
+
+### **_Production_**
+
+`react` | JavaScript library for creating user interfaces
+
+`react-dom` | React package for working with the DOM
+
+`react-query` | Hooks for managing, caching and syncing asynchronous and remote data in React
+
+### **_Development_**
+
+`jest` | JavaScript test runner
+
+`tailwindcss` | utility-first CSS framework
+
+`postcss` | JavaScript plugins that analyze and transform CSS
+
+</details>
+
+<details>
+<summary><strong>Scripts:</strong></summary>
+
+`"dev"` runs the app in `development` mode
+
+`"test"` runs `"jest"` in interactice watch mode
+
+`"build"` prepares your app's code for production to the `dist/` folder
 
 </details>
 
 <br>
 
-<h2 id='shout-outs' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_shout-outs.png'>
-</h2>
-
-### **FirstName LastName**
-
-\< social \> | [@username](https://some.address)
-
-\< site \> | [link](https://some.address)
+##
 
 <h2 id='license' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_license.png'>
+  <img alt='readme license graphic' src='./assets/license.png'>
 </h2>
 
-The MIT License (MIT)
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
 
-Copyright © 2021 <copyright holders>
+### The MIT License (MIT)
+
+Copyright © 2021 \<your company name\>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -68,48 +299,92 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-<h2 id='stats' align='center'>
-<img alt='readme template run it section banner' src='./assets/readme_stats.png'>
-</h2>
-
-![GitHub forks](https://img.shields.io/github/forks/ephcoding/readme?label=Fork&style=social)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/ephcoding/readme?label=Star%20Repo&style=social)
-
-![GitHub User's stars](https://img.shields.io/github/stars/ephcoding?label=Star%20ephcoding&style=social)
-
-![GitHub watchers](https://img.shields.io/github/watchers/ephcoding/readme?label=watch%20repo&style=social)
-
-![npm bundle size](https://img.shields.io/bundlephobia/min/readme)
-
-![GitHub issues](https://img.shields.io/github/issues/ephcoding/readme)
+##
 
 <h2 id='contribute' align='center'>
-<img alt='readme template contribute section banner' src='./assets/readme_contribute.png'>
+  <img alt='readme contribute graphic' src='./assets/contribute.png'>
 </h2>
 
-### **ISSUES:**
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
+
+### **_Issues:_**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
 
-### **PULL REQUESTS:**
+### **_Pull Requests:_**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
 
-<h2 id='resources' align='center'>
-<img alt='readme template resources section banner' src='./assets/readme_resources.png'>
+##
+
+<h2 id='shout-outs' align='center'>
+  <img alt='readme shout-outs graphic' src='./assets/shout-outs.png'>
 </h2>
 
-- resource | [link](https://someline.internetland)
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <div>
+    <a href='https://github.com/ephbuilding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraim@modevx.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
+  <br/>
+</div>
 
-<h2 id='connect' align='center'>
-<img alt='readme template connect section banner' src='./assets/readme_connect.png'>
-</h2>
+### **_FirstName LastName_**
 
-[]()
+\< social \> | [@username](https://some.address)
 
-![GitHub followers](https://img.shields.io/github/followers/ephcoding?label=Follow&style=social)
-
-![Twitter Follow](https://img.shields.io/twitter/follow/ephcoding?label=Follow&style=social)
-
-Email: ephraim@modevx.com
+\< site \> | [link](https://some.address)
