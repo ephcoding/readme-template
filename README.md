@@ -35,7 +35,7 @@
   <br/>
 </div>
 
-Project description (elevevator pitch). Project description (elevevator pitch). Project description (elevevator pitch). Project description (elevevator pitch).
+_Write a description that gets people excited and curious about your project. This is a good spot to practice your "elevator pitch." You never know who you might run into;)_
 
 ##
 
@@ -75,6 +75,8 @@ Project description (elevevator pitch). Project description (elevevator pitch). 
   </div>
   <br/>
 </div>
+
+_Download? Clone from GitHub? Let people know how they can get their hands on your project._
 
 ### **_Clone The Repo_**
 
@@ -139,6 +141,8 @@ yarn
   <br/>
 </div>
 
+_Instruct users on how they can get up and running once they have your brain baby on their computer._
+
 ### **_Run Your New Project_**
 
 ```shellscript
@@ -189,6 +193,8 @@ yarn run dev
   </div>
   <br/>
 </div>
+
+_Every project is set up different. Give users the rundown on the various working parts of your project._
 
 <details>
 <summary><strong>Folder Structure:</strong></summary>
@@ -292,6 +298,8 @@ your-app-name/...................root directory
   <br/>
 </div>
 
+_Let people know if it's ok to steal and go make millions with your code. Is your project 100% OpenSource? Explain the "allowable" ways people can use/not use your code._
+
 ### The MIT License (MIT)
 
 Copyright © 2021 \<your company name\>
@@ -343,11 +351,11 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ### **_Issues:_**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
+_Provide the steps you want people to take when complaining about your project;)_
 
 ### **_Pull Requests:_**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicula condimentum molestie at, bibendum vitae ante.
+_Provide the steps you want users to take when submitting code changes to your project._
 
 ##
 
@@ -387,6 +395,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicu
   </div>
   <br/>
 </div>
+
+_If you find a tool or resource that helped you out in a big way, show some love to whoever put it together._
 
 ### **_FirstName LastName_**
 
