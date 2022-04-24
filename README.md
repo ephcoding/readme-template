@@ -11,6 +11,7 @@
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
@@ -51,6 +52,7 @@ Project description (elevevator pitch). Project description (elevevator pitch). 
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
@@ -113,6 +115,7 @@ yarn
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
@@ -163,6 +166,7 @@ yarn run dev
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
@@ -264,6 +268,7 @@ your-app-name/...................root directory
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
@@ -312,6 +317,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
@@ -358,6 +364,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lacus nulla, vehicu
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
   </div>
+  <br/>
   <div>
     <a href='https://github.com/ephbuilding' alt='github icon'>
       <img src='./assets/icon-gh.svg' height='20'/>
