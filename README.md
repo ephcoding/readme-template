@@ -136,8 +136,6 @@ yarn
   <br/>
 </div>
 
-You obviously don't need to "run" the `README.md` so here's an example:
-
 ### **_Run Your New Project_**
 
 ```shellscript
