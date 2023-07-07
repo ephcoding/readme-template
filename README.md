@@ -12,27 +12,6 @@
     <a href='#shout-outs'>shout-outs</a>
   </div>
   <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
-  </div>
-  <br/>
 </div>
 
 _Write a description that gets people excited and curious about your project. This is a good spot to practice your "elevator pitch." You never know who you might run into;)_
@@ -51,27 +30,6 @@ _Write a description that gets people excited and curious about your project. Th
     <a href='#license'>license</a>&nbsp;|&nbsp;
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
-  </div>
-  <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
   </div>
   <br/>
 </div>
@@ -118,27 +76,6 @@ yarn
     <a href='#shout-outs'>shout-outs</a>
   </div>
   <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
-  </div>
-  <br/>
 </div>
 
 _Instruct users on how they can get up and running once they have your brain baby on their computer._
@@ -169,27 +106,6 @@ yarn run dev
     <a href='#license'>license</a>&nbsp;|&nbsp;
     <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
     <a href='#shout-outs'>shout-outs</a>
-  </div>
-  <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
   </div>
   <br/>
 </div>
@@ -275,27 +191,6 @@ your-app-name/...................root directory
     <a href='#shout-outs'>shout-outs</a>
   </div>
   <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
-  </div>
-  <br/>
 </div>
 
 _Let people know if it's ok to steal and go make millions with your code. Is your project 100% OpenSource? Explain the "allowable" ways people can use/not use your code._
@@ -326,27 +221,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     <a href='#shout-outs'>shout-outs</a>
   </div>
   <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
-  </div>
-  <br/>
 </div>
 
 ### **_Issues:_**
@@ -356,8 +230,6 @@ _Provide the steps you want people to take when complaining about your project;)
 ### **_Pull Requests:_**
 
 _Provide the steps you want users to take when submitting code changes to your project._
-
-##
 
 <h2 id='shout-outs' align='center'>
   <img alt='readme shout-outs graphic' src='./assets/shout-outs.png'>
@@ -373,27 +245,6 @@ _Provide the steps you want users to take when submitting code changes to your p
     <a href='#shout-outs'>shout-outs</a>
   </div>
   <br/>
-  <div>
-    <a href='https://github.com/ephbuilding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://twitter.com/ephbuilding' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='https://linkedin.com/in/ephbuilding' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
-    </a>
-    &nbsp;
-    &nbsp;
-    <a href='mailto:ephraim@modevx.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
-    </a>
-  </div>
-  <br/>
 </div>
 
 _If you find a tool or resource that helped you out in a big way, show some love to whoever put it together._
@@ -403,3 +254,40 @@ _If you find a tool or resource that helped you out in a big way, show some love
 \< social \> | [@username](https://some.address)
 
 \< site \> | [link](https://some.address)
+
+<h2 id='connect' align='center'>
+  <img alt='readme connect graphic' src='./assets/connect.png'>
+</h2>
+
+<div id='nav' align='right'>
+  <div>
+    <a href='#install'>install</a>&nbsp;|&nbsp;
+    <a href='#run-it'>run it</a>&nbsp;|&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp;|&nbsp;
+    <a href='#license'>license</a>&nbsp;|&nbsp;
+    <a href='#contribute'>contribute</a>&nbsp;|&nbsp;
+    <a href='#shout-outs'>shout-outs</a>
+  </div>
+  <br/>
+</div>
+
+ <div align='center'>
+    <a href='https://github.com/ephcoding' alt='github icon'>
+      <img src='./assets/icon-gh.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://twitter.com/_ephraimsmith_' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='https://linkedin.com/in/ephraimjsmith' alt='linkedin icon'>
+      <img src='./assets/icon-li.svg' height='20'/>
+    </a>
+    &nbsp;
+    &nbsp;
+    <a href='mailto:ephraimjsmith@gmail.com' alt='email icon'>
+      <img src='./assets/icon-env.svg' height='20'/>
+    </a>
+  </div>
