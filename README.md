@@ -231,21 +231,21 @@ _Provide the steps you want users to take when submitting code changes to your p
 
  <div align='center'>
     <a href='https://github.com/ephcoding' alt='github icon'>
-      <img src='./assets/icon-gh.svg' height='20'/>
+      <img src='./assets/icon-gh.svg' height='40'/>
     </a>
     &nbsp;
     &nbsp;
-    <a href='https://twitter.com/_ephraimsmith_' alt='twitter icon'>
-      <img src='./assets/icon-tw.svg' height='20'/>
+    <a href='https://twitter.com/_ephraimsmith' alt='twitter icon'>
+      <img src='./assets/icon-tw.svg' height='40'/>
     </a>
     &nbsp;
     &nbsp;
     <a href='https://linkedin.com/in/ephraimjsmith' alt='linkedin icon'>
-      <img src='./assets/icon-li.svg' height='20'/>
+      <img src='./assets/icon-li.svg' height='40'/>
     </a>
     &nbsp;
     &nbsp;
     <a href='mailto:ephraimjsmith@gmail.com' alt='email icon'>
-      <img src='./assets/icon-env.svg' height='20'/>
+      <img src='./assets/icon-env.svg' height='40'/>
     </a>
   </div>
