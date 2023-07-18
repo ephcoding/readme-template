@@ -1,13 +1,13 @@
-<div id='title' align='center'>
+<div id='intro' align='center'>
   <img alt='readme title graphic' src='./assets/title.png'>
 </div>
 
-<div id='intro' align='right'>
+<div align='right'>
   <div>
     <a href='#intro'>intro</a>&nbsp; |&nbsp;
     <a href='#license'>license</a>&nbsp; |&nbsp;
     <a href='#features'>features</a>&nbsp; |&nbsp;
-    <a href='#use'>how to use</a>&nbsp; |&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp; |&nbsp;
     <a href='#contribute'>contribute</a>&nbsp; |&nbsp;
     <a href='#connect'>connect</a>
   </div>
@@ -29,7 +29,7 @@ Write a description that gets people excited and curious about your project. Thi
     <a href='#intro'>intro</a>&nbsp; |&nbsp;
     <a href='#license'>license</a>&nbsp; |&nbsp;
     <a href='#features'>features</a>&nbsp; |&nbsp;
-    <a href='#use'>how to use</a>&nbsp; |&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp; |&nbsp;
     <a href='#contribute'>contribute</a>&nbsp; |&nbsp;
     <a href='#connect'>connect</a>
   </div>
@@ -57,7 +57,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     <a href='#intro'>intro</a>&nbsp; |&nbsp;
     <a href='#license'>license</a>&nbsp; |&nbsp;
     <a href='#features'>features</a>&nbsp; |&nbsp;
-    <a href='#use'>how to use</a>&nbsp; |&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp; |&nbsp;
     <a href='#contribute'>contribute</a>&nbsp; |&nbsp;
     <a href='#connect'>connect</a>
   </div>
@@ -77,7 +77,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
     <a href='#intro'>intro</a>&nbsp; |&nbsp;
     <a href='#license'>license</a>&nbsp; |&nbsp;
     <a href='#features'>features</a>&nbsp; |&nbsp;
-    <a href='#use'>how to use</a>&nbsp; |&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp; |&nbsp;
     <a href='#contribute'>contribute</a>&nbsp; |&nbsp;
     <a href='#connect'>connect</a>
   </div>
@@ -198,7 +198,7 @@ your-app-name/...................root directory
     <a href='#intro'>intro</a>&nbsp; |&nbsp;
     <a href='#license'>license</a>&nbsp; |&nbsp;
     <a href='#features'>features</a>&nbsp; |&nbsp;
-    <a href='#use'>how to use</a>&nbsp; |&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp; |&nbsp;
     <a href='#contribute'>contribute</a>&nbsp; |&nbsp;
     <a href='#connect'>connect</a>
   </div>
@@ -222,7 +222,7 @@ _Provide the steps you want users to take when submitting code changes to your p
     <a href='#intro'>intro</a>&nbsp; |&nbsp;
     <a href='#license'>license</a>&nbsp; |&nbsp;
     <a href='#features'>features</a>&nbsp; |&nbsp;
-    <a href='#use'>how to use</a>&nbsp; |&nbsp;
+    <a href='#how-to-use'>how to use</a>&nbsp; |&nbsp;
     <a href='#contribute'>contribute</a>&nbsp; |&nbsp;
     <a href='#connect'>connect</a>
   </div>
